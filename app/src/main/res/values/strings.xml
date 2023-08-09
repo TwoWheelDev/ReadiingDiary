@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Reading Diary</string>
+    <string name="welcome_tag">Welcome to Reading Diary!</string>
+    <string name="add_new_entry">Add new entry</string>
+    <string name="search_hint">Search books or comments</string>
+    <string name="searchMenuItem">Search</string>
+    <string name="image_of_book">Image of Book</string>
+    <string name="book_title">Book Title</string>
+    <string name="datetime">DATETIME</string>
+    <string name="pages_read">Pages Read</string>
+    <string name="child_s_comments">Child\'s Comments</string>
+    <string name="parent_s_comments">Parent\'s Comments</string>
+    <string name="isbn_number">ISBN Number</string>
+    <string name="isbn_search">ISBN Search</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="read_from_page">Read from page</string>
+    <string name="read_to_page">Read to page</string>
+    <string name="rating">Rating</string>
+    <string name="entry_rating">Entry Rating</string>
+    <string name="isbn_helpText">Enter the books ISBN number and click search to look up the book details</string>
+</resources>
